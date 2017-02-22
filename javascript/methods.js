@@ -116,4 +116,3 @@ var calculation = function () {
     number_2 = "" ;
 
 }
-
